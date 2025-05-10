@@ -44,5 +44,3 @@
 
 - 📧 Email: [personal@aldabaeva.com](mailto:personal@aldabaeva.com)
 - 🌐 Portfolio (coming soon): [aldabaeva.dev](https://aldabaeva.dev)
-
----
