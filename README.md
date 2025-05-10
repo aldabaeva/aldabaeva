@@ -24,13 +24,12 @@
 [![My Skills](https://skillicons.dev/icons?i=nodejs,mysql&perline=10)](https://skillicons.dev)
 
 ### 🧱 Oracle
-[![My Skills](https://skillicons.dev/icons?i=oracle)](https://skillicons.dev)
 ![Oracle](https://img.shields.io/badge/Oracle%20Database-F80000?logo=oracle&logoColor=white&style=flat-square)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?logo=oracle&logoColor=white&style=flat-square)
 ![Oracle APEX](https://img.shields.io/badge/Oracle%20APEX-336791?logo=apacherocketmq&logoColor=white&style=flat-square)
 
 ### ⚙️ DevOps & Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,docker,postman&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,docker,postman&perline=10)](https://skillicons.dev)\
 ![TortoiseGit](https://img.shields.io/badge/TortoiseGit-2C2C2C?logo=git&logoColor=white&style=flat-square)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=flat-square)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white&style=flat-square)
@@ -38,13 +37,6 @@
 ### 🎨 Design & UI/UX
 [![My Skills](https://skillicons.dev/icons?i=figma&perline=10)](https://skillicons.dev)
 
----
-
-## 📊 GitHub Stats
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aldabaeva&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aldabaeva&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aldabaeva&theme=solarized_dark)
 
 ---
 
