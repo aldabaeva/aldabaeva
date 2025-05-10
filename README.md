@@ -18,21 +18,23 @@
 ## 🧰 Tech Stack
 
 ### 🌐 Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,json,xml,api&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,nodejs,json,xml,api&perline=10)](https://skillicons.dev)
 
 ### 🛠️ Backend
-[![My Skills](https://skillicons.dev/icons?i=nodejs,mysql&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql&perline=10)](https://skillicons.dev)\
+![XML](https://img.shields.io/badge/XML-ff6600?logo=html5&logoColor=white&style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-292929?logo=json&logoColor=white&style=for-the-badge)
 
 ### 🧱 Oracle
-![Oracle](https://img.shields.io/badge/Oracle%20Database-F80000?logo=oracle&logoColor=white&style=flat-square)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?logo=oracle&logoColor=white&style=flat-square)
-![Oracle APEX](https://img.shields.io/badge/Oracle%20APEX-336791?logo=apacherocketmq&logoColor=white&style=flat-square)
+![Oracle](https://img.shields.io/badge/Oracle%20Database-F80000?logo=oracle&logoColor=white&style=for-the-badge)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?logo=oracle&logoColor=white&style=for-the-badge)
+![Oracle APEX](https://img.shields.io/badge/Oracle%20APEX-336791?logo=apacherocketmq&logoColor=white&style=for-the-badge)
 
 ### ⚙️ DevOps & Tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,docker,postman&perline=10)](https://skillicons.dev)\
-![TortoiseGit](https://img.shields.io/badge/TortoiseGit-2C2C2C?logo=git&logoColor=white&style=flat-square)
-![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=flat-square)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white&style=flat-square)
+![TortoiseGit](https://img.shields.io/badge/TortoiseGit-2C2C2C?logo=git&logoColor=white&style=for-the-badge)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white&style=for-the-badge)
 
 ### 🎨 Design & UI/UX
 [![My Skills](https://skillicons.dev/icons?i=figma&perline=10)](https://skillicons.dev)
