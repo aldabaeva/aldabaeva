@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="#" target="_blank">Olga Aldabaeva</a> 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7C049&center=true&vCenter=true&width=800&lines=Web+Developer+%7C+Oracle+APEX+Expert;7%2B+Years+in+Web+Dev;5%2B+Years+in+Oracle+Database+%26+APEX)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7C049&center=true&vCenter=true&width=800&lines=Web+Developer+%7C+Oracle+APEX+Expert;7%2B+Years+in+Web+Dev;5%2B+Years+in+Oracle+Database+%26+APEX;UI%2FUX+Design)](https://git.io/typing-svg)
 
 🚀 Passionate full-stack developer and Oracle APEX specialist, building reliable, scalable, and user-centric applications for over 7 years.
 
