@@ -28,8 +28,11 @@
 Oracle SQL, PL/SQL, Oracle APEX
 
 ### ⚙️ DevOps & Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,docker,postman&perline=10)](https://skillicons.dev)\
-TortoiseGit, Jira, Confluence
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,docker,postman&perline=10)](https://skillicons.dev)
+[![Git](https://skillicons.dev/icons?i=git,github,gitlab,docker,postman)](https://skillicons.dev)  
+![TortoiseGit](https://img.shields.io/badge/TortoiseGit-2C2C2C?logo=git&logoColor=white&style=flat-square)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=flat-square)
+
 
 ### 🎨 Design & UI/UX
 [![My Skills](https://skillicons.dev/icons?i=figma&perline=10)](https://skillicons.dev)\
