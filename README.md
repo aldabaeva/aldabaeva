@@ -18,12 +18,14 @@
 ## 🧰 Tech Stack
 
 ### 🌐 Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,nodejs,json,xml,api&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,nodejs&perline=10)](https://skillicons.dev)\
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 
 ### 🛠️ Backend
 [![My Skills](https://skillicons.dev/icons?i=mysql&perline=10)](https://skillicons.dev)\
 ![XML](https://img.shields.io/badge/XML-ff6600?logo=html5&logoColor=white&style=for-the-badge)
 ![JSON](https://img.shields.io/badge/JSON-292929?logo=json&logoColor=white&style=for-the-badge)
+![API](https://img.shields.io/badge/API-0052CC?logo=swagger&logoColor=white&style=for-the-badge)
 
 ### 🧱 Oracle
 ![Oracle](https://img.shields.io/badge/Oracle%20Database-F80000?logo=oracle&logoColor=white&style=for-the-badge)
