@@ -9,7 +9,7 @@
 
 ## 👩‍💻 About Me
 
-- 💼 7+ years in web development, 5+ years in Oracle Database & APEX.
+- 💼 10+ years in web development, 5+ years in Oracle Database & APEX.
 - 💡 Focused on clean architecture, UI/UX, and efficient backend logic.
 - 🎯 Comfortable working across full development lifecycle — from database modeling to front-end design and deployment.
 
