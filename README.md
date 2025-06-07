@@ -47,4 +47,4 @@
 ## 📬 Contact
 
 - 📧 Email: [personal@aldabaeva.com](mailto:personal@aldabaeva.com)
-- 🌐 Portfolio (coming soon): [aldabaeva.dev](https://aldabaeva.dev)
+- 🌐 Portfolio (coming soon): [aldabaeva.com](https://aldabaeva.com)
